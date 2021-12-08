@@ -11,3 +11,5 @@ Her bir öğe arası TAB karakteri ile ayrılmış olacaktır. Her geçiş “i/
 Program ilk a.ıldığında karşımıza böyle sayfa çıkacak
 
 ------------------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/60337657/145260501-1186191e-e4b1-4c4a-b85f-d5d6f8b6b574.png)
+Moore makinesinden farklı olarak mealy makinesinde çıktı ve state boyutu sadece girdi boyutuna eşit olur
