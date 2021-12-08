@@ -13,3 +13,12 @@ Program ilk a.ıldığında karşımıza böyle sayfa çıkacak
 ------------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/60337657/145260501-1186191e-e4b1-4c4a-b85f-d5d6f8b6b574.png)
 Moore makinesinden farklı olarak mealy makinesinde çıktı ve state boyutu sadece girdi boyutuna eşit olur
+
+------------------------------------------------------------------------------------------------------------------------
+![image](https://user-images.githubusercontent.com/60337657/145260786-212ab19e-3049-4d1d-9f62-9a5eaf8c68eb.png)
+Mealy makinesinin tablosunu baştan sona kendimiz manuel olarak oluşturabiliriz
+
+------------------------------------------------------------------------------------------------------------------------
+Ve başta olduğu gibi, tabloya belirtilen giriş, çıkış, state kümeleri dışında bir değer girersek uyarı alırız. O sırada kelime gireceğimiz input 
+textfield kapanır, tabloyu düzeltince geri düzelir. 
+Başarılar))
