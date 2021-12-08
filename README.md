@@ -7,3 +7,7 @@ S={a,b}
 Γ={0,1}
 Her girdi ile durumlar arası geçişin nasıl olduğunu gösteren Geçiş diyagramı bilgileri de kullanıcı tarafından organize edilecektir. Bunlar içinde arayüz tasarlanabileceği gibi tek bir text (GECISDIYAGRAMI.TXT) dosyadan alınması da sağlanabilir. Text dosyada ilk satırlar başlık satırları ilk sütunlarda durum sütunları olacaktır.
 Her bir öğe arası TAB karakteri ile ayrılmış olacaktır. Her geçiş “i/o” şeklindedir.
+![image](https://user-images.githubusercontent.com/60337657/145260263-df067c7f-321c-40f7-ab86-839d4e63213f.png)
+Program ilk a.ıldığında karşımıza böyle sayfa çıkacak
+
+------------------------------------------------------------------------------------------------------------------------
